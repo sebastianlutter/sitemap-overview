@@ -13,3 +13,8 @@ source bin/activate
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
 ```
+
+* Run with URL
+```
+python3 sitemap-scanner.py "https://google.com" 
+```
